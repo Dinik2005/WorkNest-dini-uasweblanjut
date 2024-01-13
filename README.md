@@ -24,5 +24,8 @@ langkah-langkah menjalankan project WorkNest
    user : dini212@gmail.com
    password : 2101
 
+   ![image](https://github.com/Dinik2005/WorkNest-dini-uasweblanjut/assets/130729049/2674d6ca-ebc9-47d8-9021-ab45af60ebd6)
+
+
 
    
